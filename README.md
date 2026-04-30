@@ -46,10 +46,15 @@ The project focuses on analyzing terrorism-related datasets to discover trends, 
 ├── Global_Terrorism_Analysis.ipynb
 ├── README.md
 
-How to Use
+## How to Use
+
+
 1.Open the notebook in Google Colab or Jupyter Notebook
 2.Run all cells
 3.Explore the analysis and visualizations
 
-Author
+
+## Author
+
+
 Created for learning and data analysis practice using Global Terrorism datasets.
