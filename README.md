@@ -35,10 +35,6 @@ The project focuses on analyzing terrorism-related datasets to discover trends, 
 - Matplotlib
 - Seaborn
 
-## Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/DS-Assignment-3/blob/main/Global_Terrorism_Analysis.ipynb)
-
 
 ## Repository Structure
 
