@@ -39,8 +39,7 @@ The project focuses on analyzing terrorism-related datasets to discover trends, 
 ## Repository Structure
 
 
-├── Global_Terrorism_Analysis.ipynb
-
+├── Global_Terrorism_Analysis.ipynb       
 ├── README.md
 
 ## How to Use
