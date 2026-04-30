@@ -50,11 +50,9 @@ The project focuses on analyzing terrorism-related datasets to discover trends, 
 ## How to Use
 
 
-1.Open the notebook in Google Colab or Jupyter Notebook
-
-2.Run all cells
-
-3.Explore the analysis and visualizations
+1.Open the notebook in Google Colab or Jupyter Notebook    
+2.Run all cells         
+3.Explore the analysis and visualizations        
 
 
 ## Author
